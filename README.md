@@ -97,7 +97,7 @@ SOURCE sql/pizza_sales_queries.sql;
 - **% of sales by category** and **% of sales by size**
 - **Best & worst sellers** — top 5 and bottom 5 pizzas by quantity sold
 
-> 💡 Add exported screenshots of the dashboard to the `images/` folder and reference them here, e.g.:
+> 💡 Add exported screenshots of the dashboard to the images/` 
 > `![Dashboard Overview](images/dashboard_overview.png)`
 
 ---
