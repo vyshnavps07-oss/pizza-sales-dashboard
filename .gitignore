@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.xls
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Environment
+.env
